@@ -36,7 +36,7 @@
 
 ## Miscellaneous
 <img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/aac356e9-93bb-4d3f-912a-e1b0979a982d" width="436" height="280">
-<img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/60db774e-e16f-4289-b2a0-5fe2b7efb581" width="400" height="400">
+<img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/60db774e-e16f-4289-b2a0-5fe2b7efb581" width="500" height="500">
 <img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/af64614e-2ad8-48e2-aa48-ceede4206762" width="300" height="300">
 <img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/517c9c2f-81c9-4ecf-9544-e2a870e83ad3" width="299" height="352">
 
