@@ -35,10 +35,11 @@
 <img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/de9bc3d0-4c90-4a9d-91cb-0fa53dc31a7f" width="310" height="442">
 
 ## Miscellaneous
-<img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/aac356e9-93bb-4d3f-912a-e1b0979a982d" width="436" height="280">
+<img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/40e1bb93-6705-4132-81c7-1006adf1e150" width="400" height="400">
 <img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/60db774e-e16f-4289-b2a0-5fe2b7efb581" width="500" height="500">
-<img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/af64614e-2ad8-48e2-aa48-ceede4206762" width="300" height="300">
-<img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/517c9c2f-81c9-4ecf-9544-e2a870e83ad3" width="299" height="352">
+<img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/aac356e9-93bb-4d3f-912a-e1b0979a982d" width="436" height="280">
+
+
 
 ## Scientific Communications
 <img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/417dc0b9-2e11-4d47-ba11-c5212a446c20" width="310" height="442">
