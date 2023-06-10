@@ -31,6 +31,8 @@
 <img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/417dc0b9-2e11-4d47-ba11-c5212a446c20" width="310" height="442">
 <img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/60ee5bd6-d98e-43d1-bdab-0029bd8694eb" width="310" height="442">
 <img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/b58d1692-6b47-4e7b-acb5-27401b6f515c" width="620" height="442">
+<img src="https://github.com/AshleighKSmith/Portfolio/blob/main/Scientific%20Communications/SB.png" width="620" height="442">
+<img src="https://github.com/AshleighKSmith/Portfolio/blob/main/Scientific%20Communications/StinkBug.png" width="620" height="442">
 <br><img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/f2ce9b21-362f-4551-ad70-c09e143e06dc" width="170" height="442">
 
 
