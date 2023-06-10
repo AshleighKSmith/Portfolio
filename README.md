@@ -24,8 +24,9 @@
 
 ## PIX Style
 <img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/3bc98b26-c6e0-4a8d-80fd-0f8443108eef" width="300" height="300">
-<img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/5f19f720-b9d9-4bd6-9792-431d1e802adf" width="300" height="300">
 <img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/05892af0-418b-444c-b779-2bf282af20ec">
+<img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/53af792d-20ef-48e5-b219-39336dfa4adf" width="314" height="302">
+
 
 ## Motivational Posters
 <img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/21783587-3e5f-4d08-8438-c7e71937ffc1" width="310" height="442">
@@ -38,6 +39,7 @@
 <img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/40e1bb93-6705-4132-81c7-1006adf1e150" width="400" height="400">
 <img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/60db774e-e16f-4289-b2a0-5fe2b7efb581" width="500" height="500">
 <img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/aac356e9-93bb-4d3f-912a-e1b0979a982d" width="436" height="280">
+<img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/1274994b-8477-4467-8a6e-ba7a8edab04b" width="440" height="233">
 
 
 
