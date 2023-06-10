@@ -30,9 +30,11 @@
 ## Scientific Communications
 <img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/417dc0b9-2e11-4d47-ba11-c5212a446c20" width="310" height="442">
 <img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/60ee5bd6-d98e-43d1-bdab-0029bd8694eb" width="310" height="442">
+
 <img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/b58d1692-6b47-4e7b-acb5-27401b6f515c" width="620" height="442">
 <img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/358a3e5d-61d4-48e6-ab4e-b9a85d29e27a" width="620" height="442">
 <br><img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/f2ce9b21-362f-4551-ad70-c09e143e06dc" width="170" height="442">
+
 
 
 ## Miscellaneous
