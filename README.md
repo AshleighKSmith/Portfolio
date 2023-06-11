@@ -20,8 +20,8 @@
 
 ## PIX Style
 <img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/3bc98b26-c6e0-4a8d-80fd-0f8443108eef" width="300" height="300">
-<img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/05892af0-418b-444c-b779-2bf282af20ec">
 <img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/53af792d-20ef-48e5-b219-39336dfa4adf" width="314" height="302">
+<img src="https://github.com/AshleighKSmith/Portfolio/assets/135721699/75f5d17a-049b-48c6-ae7c-6d085a8f6a53" width="370" height="300">
 
 ## Abstract Biology
 ![bacteria](https://github.com/AshleighKSmith/Portfolio/assets/135721699/13273861-76c8-47d8-b870-54409bf8cfdf)
